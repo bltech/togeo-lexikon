@@ -1,3 +1,5 @@
 # Test1
 
-$$\sum_{i=1}^{n} a$$
+Sei $X \subseteq \mathbb{A}$ eine affine Varietät
+
+## Test 2
